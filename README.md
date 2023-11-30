@@ -51,4 +51,3 @@ term memory model gave the highest accuracy which is
 our project can detect emotions from texts.
 
 
-
