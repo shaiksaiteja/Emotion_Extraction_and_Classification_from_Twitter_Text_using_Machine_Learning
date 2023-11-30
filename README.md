@@ -1,4 +1,4 @@
-# Emotion Extraction and Classification from Twitter Text using Deep Learning
+# Emotion Extraction and Classification from Twitter Text using Machine Learning
 
 ## Table of contents
 * [General info](#general-info)
